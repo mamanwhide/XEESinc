@@ -1,6 +1,8 @@
-Thanks for downloading this template!
+Clothing t-shirt brand website
 
-Template Name: Day
-Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Brand Name: XEES.inc
+Instagram URL: https://www.instagram.com/xees.inc/
+Twitter URL : https://x.com/xeesinc?s=11&t=SedJv8nCQfkCG2tG2L5SiQ
+Tiktok URL : https://www.tiktok.com/@xees.inc?_t=8etVV1Z3AEz&_r=1
+
+THANKS FOR USE
